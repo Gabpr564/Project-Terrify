@@ -1,5 +1,0 @@
-/* Name: Gabriel Hernandez Garcia
-
-
-
-*/
